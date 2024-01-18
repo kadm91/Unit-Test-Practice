@@ -14,6 +14,7 @@
 		0099E1D62B58E35200B3A590 /* Unit_Test_PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0099E1D52B58E35200B3A590 /* Unit_Test_PracticeTests.swift */; };
 		0099E1E02B58E35200B3A590 /* Unit_Test_PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0099E1DF2B58E35200B3A590 /* Unit_Test_PracticeUITests.swift */; };
 		0099E1E22B58E35200B3A590 /* Unit_Test_PracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0099E1E12B58E35200B3A590 /* Unit_Test_PracticeUITestsLaunchTests.swift */; };
+		0099E1F12B58F66C00B3A590 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 0099E1F02B58F66C00B3A590 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0099E1DB2B58E35200B3A590 /* Unit Test PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Unit Test PracticeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0099E1DF2B58E35200B3A590 /* Unit_Test_PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unit_Test_PracticeUITests.swift; sourceTree = "<group>"; };
 		0099E1E12B58E35200B3A590 /* Unit_Test_PracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unit_Test_PracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0099E1F02B58F66C00B3A590 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				0099E1D52B58E35200B3A590 /* Unit_Test_PracticeTests.swift */,
+				0099E1F02B58F66C00B3A590 /* data.json */,
 			);
 			path = "Unit Test PracticeTests";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0099E1CC2B58E35200B3A590 /* Preview Assets.xcassets in Resources */,
+				0099E1F12B58F66C00B3A590 /* data.json in Resources */,
 				0099E1C92B58E35200B3A590 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
